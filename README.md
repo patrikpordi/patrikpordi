@@ -80,8 +80,4 @@ Looking forward to making meaningful connections and contributing to the incredi
 
 ---
 
-**🔭 History:**
-![Snake animation](https://github.com/patrikpordi/patrikpordi/blob/output/github-contribution-grid-snake.svg)
-
----
 
