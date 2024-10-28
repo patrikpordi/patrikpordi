@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Certainly! Here's a LinkedIn summary that highlights your expertise, experience, and unique qualities:
 
 ---
 
