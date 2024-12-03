@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - **Research & Development:** Conducting cutting-edge research to push the boundaries of what's possible with aerial robotics.
 - **Fulbright Scholar:** Honored to be a Fulbright Scholar, representing Hungary and collaborating with leading institutions in the US.
 
-** 🚀  Some Tools I Have Used and Learned:**
+**🚀  Some Tools I Have Used and Learned:**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
