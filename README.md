@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **patrikpordi/patrikpordi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-👋 Hi there! I'm a passionate Robotics Engineer and Fulbright Scholar from Hungary, currently making strides in drone technology in the United States. With a strong background in robotics and a keen interest in aerial systems, I am dedicated to advancing the field through innovative research and practical applications.
+I'm a passionate Robotics Engineer and Fulbright Scholar from Hungary, currently making strides in drone technology in the United States. With a strong background in robotics and a keen interest in aerial systems, I am dedicated to advancing the field through innovative research and practical applications.
 
 ---
 
