@@ -21,14 +21,14 @@ I'm a passionate Robotics Engineer and Fulbright Scholar from Hungary, currently
 
 ---
 
-**🔬 Expertise & Experience:**
+**Expertise & Experience:**
 
 - **Robotics Engineering:** Deep expertise in designing, developing, and deploying robotic systems with a focus on drones and UAVs.
 - **Drone Technology:** Extensive experience in drone software, hardware integration, and autonomous flight systems.
 - **Research & Development:** Conducting cutting-edge research to push the boundaries of what's possible with aerial robotics.
 - **Fulbright Scholar:** Honored to be a Fulbright Scholar, representing Hungary and collaborating with leading institutions in the US.
 
-**🚀  Some Tools I Have Used and Learned:**
+**Some Tools I Have Used and Learned:**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
@@ -51,7 +51,7 @@ I'm a passionate Robotics Engineer and Fulbright Scholar from Hungary, currently
 
 ---
 
-**💡 Current Projects:**
+**Current Projects:**
 
 - **Aerial Robotics:** Developing advanced algorithms for drone navigation and control.
 - **Autonomous Systems:** Working on enhancing the autonomy and reliability of UAVs in various environments.
@@ -59,13 +59,12 @@ I'm a passionate Robotics Engineer and Fulbright Scholar from Hungary, currently
 
 ---
 
-**🌟 What Drives Me:**
-
-I am driven by the belief that robotics, particularly aerial systems, have the potential to revolutionize various industries. My goal is to contribute to this exciting field by combining rigorous research with practical solutions that can be applied in real-world scenarios.
+**What Drives Me:**
+I am driven by the belief that robotics, especially aerial systems, can make a tangible impact in nature conservation and improving the world. My goal is to contribute to this field by combining rigorous research with practical solutions that address real-world challenges and create positive change.
 
 ---
 
-**🌐 Let's Connect:**
+**Let's Connect:**
 
 Whether you're a fellow robotics enthusiast, a professional in the industry, or someone interested in the future of drone technology, I'd love to connect and explore potential collaborations. Feel free to reach out!
 
