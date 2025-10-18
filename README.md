@@ -60,6 +60,7 @@ I'm a passionate Robotics Engineer and Fulbright Scholar from Hungary, currently
 ---
 
 **What Drives Me:**
+
 I am driven by the belief that robotics, especially aerial systems, can make a tangible impact in nature conservation and improving the world. My goal is to contribute to this field by combining rigorous research with practical solutions that address real-world challenges and create positive change.
 
 ---
